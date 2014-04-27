@@ -40,14 +40,14 @@ Matching block difficulty found:
 
 Copyright (C) 2014 Kristian Adrup
 
-BlockChainParser is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. See included file [COPYING][1] for details.
+BlockChainParser is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. See included file [COPYING][3] for details.
 
 [3]: https://github.com/kria/BlockChainParser/blob/master/COPYING
 
 ## Acknowledgements
 
-* I got the data format of the files from [this post][2] by John Ratcliff.
-* This application uses [Command Line Parser Library][3] by Giacomo Stelluti licensed under the MIT License.
+* I got the data format of the files from [this post][4] by John Ratcliff.
+* This application uses [Command Line Parser Library][5] by Giacomo Stelluti licensed under the MIT License.
 
 [4]: http://codesuppository.blogspot.se/2014/01/how-to-parse-bitcoin-blockchain.html
 [5]: https://github.com/gsscoder/commandline
